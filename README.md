@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojiangcn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chaojiangcn&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaojiangcn&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **chaojiangcn/chaojiangcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
